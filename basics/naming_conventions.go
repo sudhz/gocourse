@@ -19,5 +19,5 @@ func main() {
 	const MAXRETRIES = 5
 
 	employeeId := 1001
-	fmt.Println("employeeId: ", employeeId)
+	fmt.Println("employeeId:", employeeId)
 }
